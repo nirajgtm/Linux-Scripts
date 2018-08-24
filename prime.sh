@@ -1,4 +1,5 @@
 #!/bin/bash
+#prints prime
 prime_1=0
  n=100
 echo " Primenumber between 1 to $n is:"

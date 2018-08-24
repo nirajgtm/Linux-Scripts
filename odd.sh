@@ -1,4 +1,5 @@
 #!/bin/bash
+#print odd
 for i in {1..99}
 do
         rem=$(($i % 2))
